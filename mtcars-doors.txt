@@ -1,0 +1,8 @@
+;brand;doors;model
+0;Merc;3;240D
+1;Merc;3;230
+2;Merc;3;280
+3;Merc;3;280C
+4;Merc;5;450SE
+5;Merc;5;450SL
+6;Merc;9;450SLC

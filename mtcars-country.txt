@@ -1,0 +1,16 @@
+AMC, usa
+Cadillac, french
+Chrysler, US
+Dodge, USA
+Duster, USA
+Ferrari, italy
+Fiat, italy
+Ford, USA
+Honda, japan
+Hornet, USA
+Maserati, italy
+Mazda, japan
+Merc, germany
+Porsche, Germany
+Toyota, japan
+Volvo, Sweden
